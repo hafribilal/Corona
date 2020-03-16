@@ -1,0 +1,727 @@
+[{
+    "id": "Tangeri_Tetouan_AlHoceima-2",
+    "name": ["جهة طنجة تطوان الحسيمة", "Tangeri-Tetouan-Al Hoceima"],
+    "cities": [{
+        "id": "",
+        "name": ["","Tangier"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","Tetouan"],
+        "cases": {
+          "confirmed": "1",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","Ksar El Kebir"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","Larache"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","Fnideq"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","Martil"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","Ouazzane"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","Al Hoceima"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["","M'diq"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "RegioneOrientale-2",
+    "name": ["جهة الشرق", "Regione Orientale"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Oujda"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Nador"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Berkane"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Taourirt"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Guercif"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Beni Ansar"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Rabat_Sale_Kenitra-2",
+    "name": ["جهة الرباط سلا القنيطرة", "Rabat-Sale-Kenitra"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Sale"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Rabat"],
+        "cases": {
+          "confirmed": "9",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Kenitra"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Temara"],
+        "cases": {
+          "confirmed": "2",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Khemisset"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Sidi Slimane"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Tifelt"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Sidi Kacem"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Souk El Arbaa"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Skhirat"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Fes_Meknes-2",
+    "name": ["جهة فاس مكناس", "Fes-Meknes"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Fez"],
+        "cases": {
+          "confirmed": "3",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Meknes"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Taza"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Sefrou"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Azrou"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Casablanca_Settat-2",
+    "name": ["جهة الدار البيضاء سطات", "Casablanca-Settat"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Casablanca"],
+        "cases": {
+          "confirmed": "7",
+          "recovered": "1",
+          "deceased": "1"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Mohammedia"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "El Jadida"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Dar Bouazza"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Settat"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Berrechid"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Bouskoura"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Lahraouyine"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Ain Harrouda"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Benslimane"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Sidi Bennour"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "BeniMellal_Khenifra-2",
+    "name": ["جهة بني ملال خنيفرة", "Beni Mellal-Khenifra"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Khouribga"],
+        "cases": {
+          "confirmed": "1",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Beni Mellal"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Khenifra"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Fquih Ben Salah"],
+        "cases": {
+          "confirmed": "1",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Oued Zem"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Awlad an-Nama"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Draa_Tafilalet-2",
+    "name": ["جهة درعة تافيلالت", "Draa-Tafilalet"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Errachidia"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Ouarzazate"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Midelt"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Marrakech_Safi-2",
+    "name": ["جهة مراكش آسفي", "Marrakech-Safi"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Marrakesh"],
+        "cases": {
+          "confirmed": "3",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Safi"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "El Kelaa Des Sraghna"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Ben Guerir"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Essaouira"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Youssoufia"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Souss_Massa-2",
+    "name": ["جهة سوس ماسة", "Souss-Massa"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Agadir"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Aït Melloul"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Inezgane"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Dcheira El Jihadia"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Oulad Teima"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Lqliaa"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Taroudant"],
+        "cases": {
+          "confirmed": "1",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Tiznit"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Drargua"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Guelmim_OuedNoun-2",
+    "name": ["جهة كلميم واد نون", "Guelmim-Oued Noun"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Tan-Tan"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Guelmim"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Laayoune_SakiaElHamra-2",
+    "name": ["جهة العيون الساقية الحمراء", "Laayoune-Sakia El Hamra"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Laayoun"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Semara"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Boujdour"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Bou Craa"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Guelta Zemmur"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Dakhla_OuedEdDahab-2",
+    "name": ["جهة الداخلة وادي الذهب ", "Dakhla-Oued Ed Dahab"],
+    "cities": [{
+        "id": "",
+        "name": ["", "Ad-Dakhla"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      },
+      {
+        "id": "",
+        "name": ["", "Lagouira"],
+        "cases": {
+          "confirmed": "0",
+          "recovered": "0",
+          "deceased": "0"
+        }
+      }
+    ]
+  }
+]
