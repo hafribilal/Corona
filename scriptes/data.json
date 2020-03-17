@@ -150,9 +150,9 @@
         "id": "",
         "name": ["", "Sale"],
         "cases": {
-          "confirmed": "0",
+          "confirmed": "2",
           "recovered": "0",
-          "deceased": "0"
+          "deceased": "1"
         }
       },
       {
@@ -245,7 +245,7 @@
         "id": "",
         "name": ["", "Fez"],
         "cases": {
-          "confirmed": "3",
+          "confirmed": "5",
           "recovered": "0",
           "deceased": "0"
         }
@@ -254,7 +254,7 @@
         "id": "",
         "name": ["", "Meknes"],
         "cases": {
-          "confirmed": "0",
+          "confirmed": "1",
           "recovered": "0",
           "deceased": "0"
         }
@@ -295,7 +295,7 @@
         "id": "",
         "name": ["", "Casablanca"],
         "cases": {
-          "confirmed": "7",
+          "confirmed": "9",
           "recovered": "1",
           "deceased": "1"
         }
@@ -490,7 +490,7 @@
         "id": "",
         "name": ["", "Marrakesh"],
         "cases": {
-          "confirmed": "3",
+          "confirmed": "5",
           "recovered": "0",
           "deceased": "0"
         }
@@ -549,7 +549,7 @@
         "id": "",
         "name": ["", "Agadir"],
         "cases": {
-          "confirmed": "0",
+          "confirmed": "1",
           "recovered": "0",
           "deceased": "0"
         }
